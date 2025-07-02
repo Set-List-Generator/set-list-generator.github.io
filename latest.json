@@ -1,1 +1,19 @@
-{}
+{
+  "version": "0.1.0",
+  "notes": "Standalone App Initial Update",
+  "pub_date": "2025-07-01T21:47:03-07:00",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
