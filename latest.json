@@ -1,23 +1,23 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-07-02T06:38:34.985Z",
+  "pub_date": "2025-07-03T01:04:27.905Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL1RPK2NlZFlqdXEvTnllUVdhZnZDMWN2K0ZoTW5lcGZCZ2hmOXhRS3JHTUtueHl2RnovalFDaFdHMXd0cW1lZGJhNmxUYWlsYndmQVVQQXhlNDRUSm9nVk9yUXU4UGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNDM3NzU2CWZpbGU6U2V0IExpc3QgR2VuZXJhdG9yLmFwcC50YXIuZ3oKRWhvengzSXNFM0Jnbm9BNWtIQ0JaL0p5SkxkVzlERkhwY2EzRkpPb0ZMcitFYzVnS09RSFY1MG4vYy9YNjNSQXU1aTJjYzFHMGhVWkhlT2FUMW9sQ3c9PQo=",
-      "url": "https://github.com/Set-List-Generator/set-list-generator/releases/download/set-list-generator-v0.1.1/Set.List.Generator_aarch64.app.tar.gz"
-    },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL1RPK2NlZFlqdW5DYnV0dWVNSCs3dmQyREtCQjk2TGJUbVI2VWYrbXBqK2w5OXNtOHpnM0R1eEE4ZERwdmQ5UFRVMW1MVnhBSUdYUkJNLzJCbURJSmZLSGNpdmRva3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNDM3ODM3CWZpbGU6U2V0IExpc3QgR2VuZXJhdG9yLmFwcC50YXIuZ3oKT2w4eFFDZnlzY243MmZSQldWS2FNU3RCRzhLdktEeHpCbTVJZEQyclpPNCtNTjBaSGhLU2wra1R1eDl3cjJaQ0p5Y1orcEFKRnZrMW5kWlR6UDErQWc9PQo=",
-      "url": "https://github.com/Set-List-Generator/set-list-generator/releases/download/set-list-generator-v0.1.1/Set.List.Generator_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL1RPK2NlZFlqdWx5ZXdxZDFSQXpoMUhrWGZ0d0pzeVlLQ0Z4V3JiUk9GaTNSZ1V3U3ZBQm44Y2hqQnBBMlZWRXpMRGpmSWVXWUNhcDRJRVl2L0pwYkFkV3pTalRDeHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNTA0MTc0CWZpbGU6U2V0IExpc3QgR2VuZXJhdG9yLmFwcC50YXIuZ3oKbDlvRVliYmJwNlV5RVd2L0JHSFhUWm5PYTEwZXh5b0oydkJwTVBGVU5NSXg0Ylp2dW1oUVdTY1lKNDEraHUxY3Nja01NWVpVK1JiWXR3TjZGZHZVQkE9PQo=",
+      "url": "https://github.com/Set-List-Generator/set-list-generator/releases/download/set-list-generator-v0.1.2/Set.List.Generator_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL1RPK2NlZFlqdXZMdWNNZEhSY0JsWWN0UGNFZFhyUHQvbEZkczZhWkZCcTEva21HNDRXRzdzRlRqcDhHNDZoZk84Yi90ZlFpRmx2TERRN2twOVd4MjYrYWRtQ2Zmb2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNTA0MjEyCWZpbGU6U2V0IExpc3QgR2VuZXJhdG9yLmFwcC50YXIuZ3oKZGtzR0xhUWZCSS9PTmwyUEZSTGtQZWNlOFM2U0ovbHpuQTlKQkV0NXVJRk04REJWY1FMNGM3MEt6MFZKMzY3emI0TG9FSFRVQXhMOEdtNUhqUGNuRFE9PQo=",
+      "url": "https://github.com/Set-List-Generator/set-list-generator/releases/download/set-list-generator-v0.1.2/Set.List.Generator_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL1RPK2NlZFlqdXJxSGM1VWV2cFJuR29wRFp4aDlOeFY3K00yR29ML1pDMStSK3lhQ3hUaURMQXdTYXlwbTdWNFVPdjZjclRROC9WSU4xbVc3bWZ6NGFFVDk3YjVGaFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNDM4MTg2CWZpbGU6U2V0IExpc3QgR2VuZXJhdG9yXzAuMS4xX2FtZDY0LkFwcEltYWdlCit0bFNWSDY3YmcrdDlRWnJnUW8yK0N3Wnd2MjZUak9LUm0vVGpTdWNFYVhBODczcU5ERjlYNkdRem9DaWhPSWV1TEZZWXk3ajM4N1dMU2tzWThKbUJ3PT0K",
-      "url": "https://github.com/Set-List-Generator/set-list-generator/releases/download/set-list-generator-v0.1.1/Set.List.Generator_0.1.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL1RPK2NlZFlqdXJ3MXVVWWZ6RDBvaVhrYkR0eFRDN2p2MU0rZWpDcDVqdko5QkNCNS94bEJzaDIrTUhlVTBZd1p2d1QxeDViMFRkc3J2bVovbS9teWNOQVBvUDRhT1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNTA0NjEwCWZpbGU6U2V0IExpc3QgR2VuZXJhdG9yXzAuMS4yX2FtZDY0LkFwcEltYWdlCklKbGZYU2hqVGRCNkd6aTRjd3Q2RW53V0VLdzJ6dlFFTEVxWGJXMHdUeXFaamNlS2YvUUM4cFRTRjc5ZnZRZWd5dnlDanpqYVNaUVltQkhUVW4yaUR3PT0K",
+      "url": "https://github.com/Set-List-Generator/set-list-generator/releases/download/set-list-generator-v0.1.2/Set.List.Generator_0.1.2_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL1RPK2NlZFlqdXRiNFZBNkRPWWhiV3hMalZQSnZhc0ZONVFxU1pPWk5WcVZ3Z2VoR2J6b3o5dU1PRzBFUmxDZ2VNRWZjdEJDRWJXLzBUZ2YxYmhEcGduOU1tcHJpY3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNDM4MzEyCWZpbGU6U2V0IExpc3QgR2VuZXJhdG9yXzAuMS4xX3g2NF9lbi1VUy5tc2kKSXpHVWZrRUN1VExyakxsUkkza3RpbzRQOURIaWdUN01ETmpDTWliS3VRY0ZCWU9nTEJNR1ZwcnFPcGVPeFJPaStPYTZ1UzBjOTRlaVFlSTEra3JXQ3c9PQo=",
-      "url": "https://github.com/Set-List-Generator/set-list-generator/releases/download/set-list-generator-v0.1.1/Set.List.Generator_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL1RPK2NlZFlqdW1tYTlyOGtQN2U0cHV4WGVlYmdjTHY1SG90MHlEOU9xNGlNK2hrMGx4dmErb3RsWU56UVBEQStBTGVtMlJLZG4yWjFnNlFickRDWFBaU1BvWkdSaFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNTA0NjY1CWZpbGU6U2V0IExpc3QgR2VuZXJhdG9yXzAuMS4yX3g2NF9lbi1VUy5tc2kKOW14MWF1SHNNcWd4Q0tMUVdqRVR1SGRTN2Y5NEdsVmN4SHlWOUUyUjBXdTR3MHVwZzhhQW5WSExZcDgycWhmeldjVE16Z0o3VlBNN0t4NC9UNHBBQmc9PQo=",
+      "url": "https://github.com/Set-List-Generator/set-list-generator/releases/download/set-list-generator-v0.1.2/Set.List.Generator_0.1.2_x64_en-US.msi"
     }
   }
 }
